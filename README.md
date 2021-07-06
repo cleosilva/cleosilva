@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleosilva
-- 👀 I’m interested in Javascript, react
+- 👀 I’m interested in Javascript e react.
 - 🌱 I’m currently learning Javascript e react
 - 📫 How to reach me... linkedin: https://www.linkedin.com/in/cleo-silva/ --- email: cleo_silva1906@hotmail.com
 
