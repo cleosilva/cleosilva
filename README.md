@@ -11,5 +11,11 @@
 I'm a frontend developer interest in full stack.</br>
 I'm currently learning Javascript, react and node.js.
 
+## Courses
+📖 Full Stack Gama Academy - Plataforma VTEX</br>
+📖 B7web Full Stack Developer.</br>
+📖 Origamid UX / UI Design e Desenvolvedor Front end.
+
+
 
 
