@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @cleosilva
+
+- 👋 Hi, my name is Cléo.
 - 👀 I’m interested in full stack developer.
 - 🌱 I’m currently learning Javascript and react
 - 📫 How to reach me:
