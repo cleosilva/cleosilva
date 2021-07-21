@@ -18,6 +18,17 @@
 📖 B7Web - Full Stack Developer.</br>
 📖 Origamid - UX / UI Design and Front end developer.
 
+### Languages
+![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) 
+![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
+![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
+![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/82469705/126481497-f080ce11-8d7a-4fd2-bdca-b7f5a729221e.png)
+![react_original_wordmark_logo_icon_146375](https://user-images.githubusercontent.com/82469705/126481895-14514e03-ee48-4c9f-a940-b28d0939d405.png)
+![file_type_graphql_icon_130564](https://user-images.githubusercontent.com/82469705/126481965-c19ac7ca-e64a-4254-9836-8f31e910ec66.png)
+![brand_node_icon_157859](https://user-images.githubusercontent.com/82469705/126481985-4261a97c-8d9c-4ed7-9436-ebfea27883c6.png)
+
+
+
 
 
 
