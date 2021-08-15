@@ -10,7 +10,7 @@
 ### About me
 🏡 I'm from Brazil.</br>
 💻 I'm a front end developer interest in JavaScript.</br>
-📚 I'm currently learning Javascript, react and node.js.</br>
+📚 I'm currently learning Javascript, react, node.js and VTEX IO.</br>
 📤 2021 Goals: create a new project and find a new job. 
 
 ### Courses
