@@ -9,9 +9,9 @@
 
 ### About me
 🏡 I'm from Brazil.</br>
-💻 I'm a front end developer interest in JavaScript.</br>
-📚 I'm currently learning Javascript, react, node.js and VTEX IO.</br>
-📤 2021 Goals: create a new project and find a new job. 
+💻 I'm interest in .NET, HTML, CSS e JavaScript.</br>
+📚 I'm currently learning Javascript e .NET.</br>
+📤 2021 Goals: create a new project and find a job. 
 
 ### Courses
 📖 Digital Inovation One - .NET</br>
