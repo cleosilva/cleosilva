@@ -10,7 +10,7 @@
 ### About me
 🏡 I'm from Brazil.</br>
 💻 I'm interest in .NET, HTML, CSS e JavaScript.</br>
-📚 I'm currently learning Javascript e .NET.</br>
+📚 I'm currently learning .NET, Angular e Ionic.</br>
 📤 2021 Goals: create a new project and find a job. 
 
 ### Courses
