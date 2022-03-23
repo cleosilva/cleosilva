@@ -10,11 +10,12 @@
 ### Sobre mim
 🏡 Sou brasileira morando em São José dos Campos - SP</br>
 💻 Me interesso por Javascript, Node e Angular.</br>
-📚 Atualmente estou estudando Angular e Inglês</br>
-📤 2022 Metas: Criar um novo projeto. 
+📚 Atualmente estou aprofundando em Node e Angular e estudando Inglês</br>
+📤 2022 Metas: Encontrar um emprego e avançar na proficiência do inglês. 
 
 ### Cursos
-📖 Web Full Stack Angular - SoulCode Academy</br>
+📖 Web Full Stack Angular e NodeJs - SoulCode Academy</br>
+📖 Ignite Rockectseat - NodeJs
 📖 Digital Inovation One - .NET</br>
 📖 Gama Academy - Full Stack - VTEX</br>
 📖 B7Web - Full Stack Developer.</br>
