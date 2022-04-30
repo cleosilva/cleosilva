@@ -9,13 +9,13 @@
 
 ### Sobre mim
 🏡 Sou brasileira morando em São José dos Campos - SP</br>
-💻 Me interesso por Javascript, Node e Angular.</br>
-📚 Atualmente estou aprofundando em Node e Angular e estudando Inglês</br>
+💻 Me interesso por Javascript, Node.js e Angular.</br>
+📚 Atualmente estou aprofundando em Node.js e Angular e estudando Inglês</br>
 📤 2022 Metas: Encontrar um emprego e avançar na proficiência do inglês. 
 
 ### Cursos
 📖 Web Full Stack Angular e NodeJs - SoulCode Academy</br>
-📖 Ignite Rockectseat - NodeJs
+📖 Ignite Rockectseat - NodeJs</br>
 📖 Digital Inovation One - .NET</br>
 📖 Gama Academy - Full Stack - VTEX</br>
 📖 B7Web - Full Stack Developer.</br>
@@ -26,7 +26,12 @@
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
 ![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
 ![file_type_typescript_official_icon_130107](https://user-images.githubusercontent.com/82469705/126481497-f080ce11-8d7a-4fd2-bdca-b7f5a729221e.png)
-![sql-document-outlined-interface-symbol_icon-icons com_57504](https://user-images.githubusercontent.com/82469705/131224347-8113df87-1206-4c4a-95b2-f60f56efe376.png)
+![file_type_node_icon_130301](https://user-images.githubusercontent.com/82469705/166115817-7ec45a8c-4391-4a88-a1df-8392965371ca.png)
+![mysqlworkbench_93532](https://user-images.githubusercontent.com/82469705/166115865-fbd457fb-df9a-4cc1-8705-4f7ee7aaf9fe.png)
+![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/82469705/166115938-0c1700a8-0fd5-41a3-a8b2-446959c6e800.png)
+
+
+
 
 
 
