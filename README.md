@@ -9,6 +9,7 @@
 
 ### Sobre mim
 🇧🇷 Sou brasileira morando em São José dos Campos - SP</br>
+👩‍🎓 Graduada em Gestão Financeira</br>
 💻 Me interesso por Javascript, Node.js, Angular e Java.</br>
 📚 Atualmente estou estudando Java e Inglês</br>
 📤 2022 Metas: chegar ao nível C2 em Inglês. 
@@ -30,6 +31,9 @@
 ![file_type_node_icon_130301](https://user-images.githubusercontent.com/82469705/166115817-7ec45a8c-4391-4a88-a1df-8392965371ca.png)
 ![mysqlworkbench_93532](https://user-images.githubusercontent.com/82469705/166115865-fbd457fb-df9a-4cc1-8705-4f7ee7aaf9fe.png)
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/82469705/166115938-0c1700a8-0fd5-41a3-a8b2-446959c6e800.png)
+![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82469705/170327293-01868240-a262-49ca-a4b4-ae98a3921cd8.png)
+
+
 
 
 
