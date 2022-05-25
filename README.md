@@ -16,7 +16,7 @@
 
 ### Cursos
 📖 Digital House - Treinamento Ifood - Back end Node.js</br>
-📖 JDEV treinamento Full Java</br>
+📖 JDEV treinamento Full Stack Java</br>
 📖 Web Full Stack Javascript - Angular e NodeJs - SoulCode Academy</br>
 📖 Ignite Rockectseat - NodeJs</br>
 📖 Gama Academy - Full Stack - VTEX</br>
