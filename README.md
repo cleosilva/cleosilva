@@ -8,13 +8,14 @@
 </a>
 
 ### Sobre mim
-🏡 Sou brasileira morando em São José dos Campos - SP</br>
-💻 Me interesso por Javascript, Node.js e Angular.</br>
-📚 Atualmente estou aprofundando em Node.js e Angular e estudando Inglês</br>
-📤 2022 Metas: Encontrar um emprego e avançar na proficiência do inglês. 
+🇧🇷 Sou brasileira morando em São José dos Campos - SP</br>
+💻 Me interesso por Javascript, Node.js, Angular e Java.</br>
+📚 Atualmente estou estudando Java e Inglês</br>
+📤 2022 Metas: chegar ao nível C2 em Inglês. 
 
 ### Cursos
 📖 Digital House - Treinamento Ifood - Back end Node.js</br>
+📖 JDEV treinamento Full Java</br>
 📖 Web Full Stack Javascript - Angular e NodeJs - SoulCode Academy</br>
 📖 Ignite Rockectseat - NodeJs</br>
 📖 Gama Academy - Full Stack - VTEX</br>
