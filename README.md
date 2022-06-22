@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleosilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  ##
 
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) 
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
@@ -16,6 +18,8 @@
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/82469705/166115938-0c1700a8-0fd5-41a3-a8b2-446959c6e800.png)
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82469705/170327293-01868240-a262-49ca-a4b4-ae98a3921cd8.png)
 ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/82469705/170516667-409b841e-775c-4e2f-8507-01e922b85662.png)
+  
+  ##
   
   <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
