@@ -8,7 +8,7 @@
 </div>
   
   ##
-
+### Linguagens, frameworks e banco de dados
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) 
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
 ![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
