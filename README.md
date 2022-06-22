@@ -1,29 +1,12 @@
   
-# Olá, meu nome é Cléo! :D
+# Olá sou Cléo Silva, desenvolvedora de software!
 
-<a href="https://github.com/cleosilva">![circle-github_icon-icons com_66826](https://user-images.githubusercontent.com/82469705/126402377-385434fa-7865-471b-9803-deead7ce5627.png)</a>
-<a href="https://www.linkedin.com/in/cleo-silva/">![linkedin_icon-icons com_65929](https://user-images.githubusercontent.com/82469705/126404092-3d71051b-4898-48c7-9e7e-2df3bc66f2a3.png)
-</a>
-<a href="https://www.instagram.com/cleo.s.faria/">![instagram_logo_icon_186894](https://user-images.githubusercontent.com/82469705/126404353-a56c8c1d-02e3-4d10-82aa-9ed36c5a48fd.png)
-</a>
+<div align="center">
+  <a href="https://github.com/cleosilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleosilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-### Sobre mim
-🇧🇷 Sou brasileira morando em São José dos Campos - SP</br>
-👩‍🎓 Graduada em Gestão Financeira</br>
-💻 Me interesso por Javascript, Node.js, Angular e Java.</br>
-📚 Atualmente estou estudando Java e Inglês</br>
-📤 2022 Metas: chegar ao nível C2 em Inglês. 
-
-### Cursos
-📖 Digital House - Treinamento Ifood - Back end Node.js</br>
-📖 JDEV treinamento Full Stack Java</br>
-📖 Web Full Stack Javascript - Angular e NodeJs - SoulCode Academy</br>
-📖 Ignite Rockectseat - NodeJs</br>
-📖 Gama Academy - Full Stack - VTEX</br>
-📖 B7Web - Full Stack Developer Javascript.</br>
-📖 Origamid - UX / UI Design and Front end developer.
-
-### Linguagens - Frameworks - Bancos de Dados
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) 
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
 ![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
@@ -33,6 +16,18 @@
 ![mongodb_original_wordmark_logo_icon_146425](https://user-images.githubusercontent.com/82469705/166115938-0c1700a8-0fd5-41a3-a8b2-446959c6e800.png)
 ![postgresql_plain_wordmark_logo_icon_146390](https://user-images.githubusercontent.com/82469705/170327293-01868240-a262-49ca-a4b4-ae98a3921cd8.png)
 ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/82469705/170516667-409b841e-775c-4e2f-8507-01e922b85662.png)
+  
+  <div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 
