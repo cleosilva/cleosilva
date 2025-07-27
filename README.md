@@ -1,5 +1,14 @@
   
-# Olá sou Cléo Silva, desenvolvedora de software!
+# Olá nome é Cléo Silva, 
+
+<div>
+  <ul>
+    <li>Software Developer na Mundo Livre Digital</li>
+    <li>Atualmente trabalhando com Java</li>
+    <li>Full Stack Web Developer - <a href="https://soulcode.com">SoulCode Academy</a></li>
+    <li>Graduação em andamento em Análise de Desenvolvimento de Sistemas</li>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://github.com/cleosilva">
@@ -9,6 +18,8 @@
   
   ##
 ### Linguagens, frameworks e banco de dados
+<img width="48" height="48" alt="java_original_wordmark_logo_icon_146459" src="https://github.com/user-attachments/assets/048d027e-3da8-49f1-966c-0a311d248fb9" />
+
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/82469705/126480966-33703b46-d67a-4463-9863-cc6d518c168a.png) 
 ![file_type_css_icon_130661](https://user-images.githubusercontent.com/82469705/126481232-6e64963d-4e63-4a64-9aab-69de29f68687.png)
 ![javascript_icon_130900](https://user-images.githubusercontent.com/82469705/126481195-97810991-5284-4322-9664-0b99097e9929.png)
