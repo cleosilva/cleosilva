@@ -3,7 +3,7 @@
 
 <div>
   <ul>
-    <li>Software Developer na Mundo Livre Digital</li>
+    <li>Software Developer</li>
     <li>Atualmente trabalhando com Java</li>
     <li>Full Stack Web Developer - <a href="https://soulcode.com">SoulCode Academy</a></li>
     <li>Graduação em andamento em Análise de Desenvolvimento de Sistemas</li>
